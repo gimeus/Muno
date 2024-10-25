@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/e10ec991-6441-4d58-9341-c07a86a4298b" />
+<!-- <img src="" /> -->
 <h2>
 	금융 자산 관리 서비스
 </h2>
@@ -7,42 +7,29 @@
 	자산 관리를 시작하는데 어려움을 겪고 있나요?<br>
 	자산 관리를 어떻게 시작해야 할지 몰라서 망설이신 적 있으신가요?<br>
 <br>
-<br>
 	무너질 걱정없는 자산관리, 무노와 함께해요 "muno"
-	<img src="https://github.com/user-attachments/assets/ca057f8a-abf5-41db-8292-3901a36f1b36" width="30" alt="muno" />
 </p>
+
+[프로젝트 기간](#프로젝트-기간) • [프로젝트 소개](#프로젝트-소개) • [주요 기능](#주요-기능) • [동작 영상](#동작-영상) • [기술 스택](#기술-스택) • [아키텍처](#아키텍처) • [프로젝트 팀원](#프로젝트-팀원)
+
 </div>
 
-<br>
-
-## 목차
-
-- [프로젝트 기간](#프로젝트-기간)
-- [프로젝트 소개](#프로젝트-소개)
-- [주요 기능](#주요-기능)
-- [동작 영상](#동작-영상)
-- [기술 스택](#기술-스택)
-- [아키텍처](#아키텍처)
-- [프로젝트 팀원](#프로젝트-팀원)
-
-<br>
-
+⠀
+⠀
 ## 프로젝트 기간
 2024.09.05 - 2024.10.16
 
-<br>
-
+⠀
+⠀
 ## 프로젝트 소개
 <img src="https://github.com/user-attachments/assets/21893212-f5ea-4054-97c7-9b2588ea88f7"/>
 <img src="https://github.com/user-attachments/assets/08baa4f3-08da-47f4-a5c9-b82eec08703c"/>
 <img src="https://github.com/user-attachments/assets/a6205f84-9081-48c9-9824-1b874f55f7a4"/>
 
-<br>
-<br>
-
+⠀
+⠀
 ## 주요 기능
-<h3>✸ 로그인/회원가입, 온보딩</h3>
-
+<h3>① 로그인/회원가입, 온보딩</h3>
 <table>
 	<tr>
     <td colspan="3" align="center">로그인/회원가입</td>
@@ -62,7 +49,7 @@
   </tr>
 </table>
 
-<h3>✸ 홈</h3>
+<h3>② 홈</h3>
 <table>
 	<tr>
     <td colspan="3" align="center">홈</td>
@@ -82,7 +69,7 @@
   </tr>
 </table>
 
-<h3>✸ 자산분석과 상품추천</h3>
+<h3>③ 자산분석과 상품추천</h3>
 <table>
   <tr>
 	  <td align="center"><img width="329" src="https://github.com/user-attachments/assets/cd81dd26-fff8-4830-b977-6d7927db45bf"/></td>
@@ -95,7 +82,7 @@
   </tr>
 </table>
 
-<h3>✸ 커뮤니티</h3>
+<h3>④ 커뮤니티</h3>
 <table>
   <tr>
     <td align="center"><img width="329" src="https://github.com/user-attachments/assets/a4792ed3-f0e6-462b-ae3f-2ab3bfc56b46"/></td>
@@ -108,9 +95,8 @@
   </tr>
 </table>
 
-<br>
-<br>
-
+⠀
+⠀
 ## 동작 영상
 <table>
 	  <tr>
@@ -120,11 +106,9 @@
   </tr>
 </table>
 
-<br>
-<br>
-
+⠀
+⠀
 ## 기술 스택
-
 <div align="center">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
@@ -160,23 +144,20 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </div>
 
-<br>
-<br>
-
+⠀
+⠀
 ## 아키텍처
-
 <img src="https://github.com/user-attachments/assets/24b56e7a-1faf-4e67-8a47-0f286251c978"/>
 
-<br>
-<br>
-
+⠀
+⠀
 ## 프로젝트 팀원
 <div align="center">
 <table>
   <tr>
     <td align="center"><img src="https://github.com/gimeus.png?s=100" width="160"></td>
     <td align="center"><img src="https://via.placeholder.com/100x100.png?text=%20" width="160"></td>
-    <td align="center"><img src="https://via.placeholder.com/100x100.png?text=%20" width="160"></td>
+    <td align="center"><img src="https://github.com/anjdfk111.png?s=100" width="160"></td>
   </tr>
   <tr>
     <td align="center"><b>김이수</b></td>
