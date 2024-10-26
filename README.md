@@ -154,6 +154,11 @@
 ## 프로젝트 팀원
 <div align="center">
 <table>
+	  <tr>
+    <th align="center">FE, UI/UX</th>
+    <th align="center">AI</th>
+    <th align="center">BE</th>
+  </tr>
   <tr>
     <td align="center"><img src="https://github.com/gimeus.png?s=100" width="160"></td>
     <td align="center"><img src="https://via.placeholder.com/100x100.png?text=%20" width="160"></td>
@@ -171,6 +176,11 @@
   </tr>
 </table>
   <table>
+	    <tr>
+    <th align="center">BE</th>
+    <th align="center">BE</th>
+    <th align="center">BE</th>
+  </tr>
   <tr>
     <td align="center"><img src="https://github.com/Taeyong98.png?s=100" width="160"></td>
     <td align="center"><img src="https://github.com/cheongwonyoung.png?s=100" width="160"></td>
